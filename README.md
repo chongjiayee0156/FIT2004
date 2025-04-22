@@ -1,6 +1,6 @@
-# Monash FIT2004 Algorithms and Data Structures
+# Basic Algorithms and Data Structures
 
-This repository contains my assignment attempts for an algorithms and data structures module in uni.
+This repository contains my assignment attempts for an algorithms and data structures module in year 2 uni.
 
 <hr>
 

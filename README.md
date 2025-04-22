@@ -2,7 +2,7 @@
 
 This repository contains my assignment attempts for an algorithms and data structures module in year 2 uni.
 
-<hr>
+<br>
 
 ## Assignment 1
 
@@ -16,7 +16,8 @@ Focuses on maximizing the total annual revenue by selecting optimal locations to
 
 Addresses the challenge of finding the shortest path from a starting point to any of the given exits in a floor graph, with the condition that the path must pass through at least one key. The solution employs Dijkstra's algorithm to find shortest paths and Backtracking to reconstruct the route.
 
-<hr>
+
+<br>
 
 # Assignment 2
 
